@@ -1,0 +1,1 @@
+PG Life is a website where users can easily find PG as per their requirements.Users have to create their account, if the want to select their favourite PGs. The admin can manage users, and verify the PG details and update about availability of the rooms in PG. 
